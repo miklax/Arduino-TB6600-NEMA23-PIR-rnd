@@ -1,5 +1,5 @@
 # Arduino-TB6600-NEMA23-PIR-rnd
-Senzor will detect movement and then will make random turns (from 1-9) and direction with the step motor NEMA23 via the TB6600 driver.
+Senzor will detect movement and then will make random turns (from 1-9) in a random direction using the step motor NEMA23 via the TB6600 driver.
 
 Project is made with:
 - Arduino UNO
